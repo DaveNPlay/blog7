@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Eduardo Santistevan
+  tagline: Estudiante de la UG
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -24,6 +24,7 @@ texture:
 
   # generate social links in footer
   social_links:
+    facebook: esantistevantorres1
     twitter: thelehhman
     github:  thelehhman
     linkedIn: in/thelehhman
