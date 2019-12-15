@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Coding Post"
-description: An example post which shows code rendering.
+title:  "Unidad 1"
+description: Temas a tratar en primera unidad en introduccion al software.
 date:   2019-05-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
