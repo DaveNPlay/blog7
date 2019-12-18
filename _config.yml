@@ -1,6 +1,6 @@
-title: Eduardo Santistevan Blog
-author: Eduardo Santistevan
-email: ewst2000@hotmail.com
+title: Blog Academico de Eduardo
+author: Eduardo Vera
+email: eduromero168@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Eduardo Santistevan
-  tagline: Estudiante de la UG
+  title: Eduardo Vera
+  tagline: Estudiante de Ingenieria en Software
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -24,10 +24,10 @@ texture:
 
   # generate social links in footer
   social_links:
-    facebook: esantistevantorres1
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    facebook: Eduardovera20006
+    twitter: eduromero168
+    github:  Eduardovera6
+    linkedIn:
     rss: rss
  
 
